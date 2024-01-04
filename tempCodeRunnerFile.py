@@ -1,0 +1,1 @@
+name : {}, age : {} ,salary : {} ,area : {}
